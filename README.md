@@ -5,18 +5,23 @@
 ## 👨🏻‍💻 Sobre mim  
 
 🎓 **Caminho para o Full Stack**  
+
 Sou formado em Análise e Desenvolvimento de Sistemas e estou no 1º semestre de Segurança da Informação. Meu objetivo é dominar tanto o front-end quanto o back-end, criando soluções completas e eficientes.  
 
 💻 **Meta Profissional**  
+
 Quero me tornar um Desenvolvedor Full Stack, aplicando boas práticas e criando projetos inovadores que unam tecnologia e experiência do usuário.  
 
 🤖 **Aprendizados Atuais**  
+
 Estou focado no estudo intenso de desenvolvimento Front-End, explorando suas aplicações práticas e me aprofundando nas tecnologias mais usadas no mercado.  
 
 💼 **Experiência**  
+
 Atualmente, trabalho na Softpark, onde aplico e desenvolvo minhas habilidades enquanto contribuo para os projetos da empresa.  
 
-🌟 **O que me Motiva**  
+🌟 **O que me Motiva** 
+ 
 Sou apaixonado por tecnologia e inovação. Busco constantemente aprender algo novo e evoluir como profissional para criar soluções que realmente façam a diferença. 🚀  
 
 ---
